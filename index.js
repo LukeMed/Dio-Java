@@ -1,4 +1,4 @@
-let nome = "Lucas"
-let sobrenome = " A. Medeiros"
+let atividade = "Configuração"
+let ferramenta = " VS Code"
 
-console.log(nome + sobrenome)
+console.log(atividade + " do" + ferramenta)
